@@ -1,0 +1,18 @@
+.loc {
+    display: flex;
+}
+.loc div {
+    margin: 0.3rem;
+}
+
+.footer {
+    margin-top: 5vh;
+    background-color: #160a3a;
+    color: white;
+    font-size: 0.8rem;
+    padding-top: 1vh;
+    padding-left: 8vw;
+}
+button.orange{
+    background-color: orange;
+}
